@@ -2,8 +2,6 @@
 
 A React Native wrapper to check whether a component is in the view port to track impressions and clicks
 
-![demo](https://github.com/changey/react-native-component-inview/blob/master/react-native-component-inview.gif)
-
 ## Installation
 
 ```bash
